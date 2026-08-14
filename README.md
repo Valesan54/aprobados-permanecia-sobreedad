@@ -1,2 +1,2 @@
-# aprobados-permanencia-sobreedad
+# aprobados-PERMANENCIA-sobreedad
 Análisis de datos SIMULADOS relacionados a la repitencia y sobreedad  en las escuelas primarias de PBA.
